@@ -1,0 +1,5 @@
+sqlalchemy
+pandas
+fuzzywuzzy
+sklearn
+flask

@@ -1,0 +1,14 @@
+language: python
+before_script:
+  - sleep 3
+python:
+  - "3.6"
+
+install:
+  - pip install -r requirements.txt
+  - pip install pylint
+
+# Command to run tests, e.g. python setup.py test
+script:
+  - pylint *.py
+  #- pytest tests/*.py
