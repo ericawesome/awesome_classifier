@@ -4,9 +4,6 @@
 
 Machine Learning from titanic data - Kaggle's Titanic classification competition: Demonstrates basic data munging, analysis, and visualization techniques. Shows an example of supervised machine learning technique (RandomForestClassifier).
 
-.. image:: https://travis-ci.org/ericawesome/awesome_recommender.svg?branch=master
-        :target: https://travis-ci.org/ericawesome/recommender_app
-
 * Free software: MIT license
 
 
